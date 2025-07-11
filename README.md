@@ -1,3 +1,4 @@
+
 # 🍹 VendingMachine 프로젝트
 
 ## 🛠️ 개발팀: 일등이조 (출품 번호: 22F76)
@@ -67,3 +68,189 @@
 
 - 최초 작성일: 2024-03-19  
 - 최종 수정일: 2024-11-05
+
+---
+
+## 🍹 VendingMachine Project
+
+🛠️ Development Team: Il-Deung-Ee-Jo (Exhibit No. 22F76)  
+Team Members: Lee Eun-jeong, Hong Chang-ki  
+Supervisor: Professor Kim Eun-ji
+
+---
+
+## 📜 Software Usage Terms and Copyright Notice (English)
+
+This source code and software (hereinafter referred to as "the Software") are protected under the Copyright Law of Korea and international copyright treaties (e.g., Berne Convention, WIPO Copyright Treaty). All rights are reserved by the team “Il-Deung-Ee-Jo” (hereinafter “the Team”).
+
+### ■ License and Permitted Usage
+
+The Software may be used only for the following purposes:
+
+- Exhibition and demonstration at the Daerim Tech Fair
+- Internal team development and academic purposes
+
+The following actions are prohibited without explicit written consent:
+
+- External distribution of the Software or any part thereof
+- Commercial use, resale, or any sales-inducing purpose
+- Creation or distribution of derivative works (including modifications and variations)
+
+---
+
+### ■ Disclaimer and Limitation of Liability
+
+The Software is provided "as is" and the developers assume no responsibility for:
+
+- Direct or indirect damages resulting from use, modification, or distribution of the Software
+- Data loss, system errors, or other unexpected issues
+- Conflicts arising from integration with external systems or platforms
+
+---
+
+### ■ Governing Law and Jurisdiction
+
+This notice shall be interpreted under the laws of the Republic of Korea, regardless of the nationality of the user. Any legal disputes related to the Software shall be under the jurisdiction of the Suwon District Court, Ansan Branch, Republic of Korea.
+
+---
+
+### ■ License Type
+
+The Software follows the license below:
+
+**CCL - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**  
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
+
+License Type: CC BY-NC-ND 4.0  
+Distribution Restriction: Prohibited outside of the Daerim Tech Fair and the Team  
+All Rights Reserved
+
+---
+
+🗓️ Development History  
+Initial Creation Date: 2024-03-19  
+Last Modified Date: 2024-11-05
+
+---
+
+## 🍹 VendingMachine プロジェクト
+
+🛠️ 開発チーム：イルドゥンイジョ（出展番号：22F76）  
+メンバー：イ・ウンジョン、ホン・チャンギ  
+担当教授：キム・ウンジ教授
+
+---
+
+## 📜 ソフトウェア使用条件と著作権通知 (Japanese)
+
+本ソースコードおよびソフトウェア（以下「本ソフトウェア」）は、大韓民国の著作権法および国際著作権条約（例：ベルヌ条約、WIPO著作権条約）により保護されており、すべての権利は「イルドゥンイジョ」（以下「チーム」）に帰属します。
+
+### ■ 使用許可の範囲（ライセンスと使用条件）
+
+本ソフトウェアは、以下の目的でのみ使用が許可されます:
+
+- テクリムテックフェアでの展示およびデモンストレーション
+- チーム内部の開発および学術目的
+
+以下の行為は禁止されています（書面による明確な同意がない限り）:
+
+- 本ソフトウェアまたはその一部の外部配布
+- 商業的利用、再販売、販売促進目的での使用
+- 派生作品（変更、改変を含む）の作成および配布
+
+---
+
+### ■ 免責事項
+
+本ソフトウェアは「現状のまま」提供され、開発者は以下について一切の責任を負いません:
+
+- 使用、改変、配布による直接的または間接的損害
+- データの損失、システムエラー、その他の予期せぬ問題
+- 外部システムとの統合や他のプラットフォームで発生する衝突
+
+---
+
+### ■ 準拠法および管轄
+
+本通知は、ユーザーが韓国以外の国籍を持つ場合でも大韓民国の法律に従って解釈され、本ソフトウェアまたは関連する紛争についての管轄裁判所は「大韓民国水原地方法院安山支院」とします。
+
+---
+
+### ■ ライセンス情報
+
+本ソフトウェアは、以下のライセンスに従います:
+
+**CCL - クリエイティブ・コモンズ 表示-非営利-改変禁止 4.0 国際**  
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja
+
+ライセンス種類: CC BY-NC-ND 4.0  
+配布制限: テックフェアおよびチーム外への配布禁止  
+すべての権利を保有（All Rights Reserved）
+
+---
+
+🗓️ 開発履歴  
+初回作成日: 2024-03-19  
+最終修正日: 2024-11-05
+
+---
+
+## 🍹 VendingMachine 项目
+
+🛠️ 开发团队：일등이조（参展编号：22F76）  
+团队成员：李恩静，洪昌基  
+指导教授：金恩智 教授
+
+---
+
+## 📜 软件使用条款与版权声明 (Chinese)
+
+本源代码及软件（以下称“本软件”）受大韩民国著作权法及国际著作权条约（例如：伯尔尼公约、世界知识产权组织著作权条约）保护，所有权归“일등이조”团队（以下简称“本团队”）所有。
+
+### ■ 使用许可范围（许可与允许用途）
+
+本软件仅可用于以下目的：
+
+- 在大林科技博览会展示和演示
+- 团队内部开发及学术用途
+
+未经明确书面同意，禁止以下行为：
+
+- 将本软件或其任何部分进行外部分发
+- 商业用途、转售或用于销售目的
+- 创建或分发衍生作品（包括修改或变体）
+
+---
+
+### ■ 免责声明
+
+本软件按“原样”提供，开发者对以下事项不承担任何责任：
+
+- 因使用、修改或分发本软件造成的直接或间接损害
+- 数据丢失、系统错误或其他意外问题
+- 与外部系统集成或在其他平台上发生的冲突
+
+---
+
+### ■ 适用法律与管辖权
+
+本声明即使适用于非大韩民国国籍的用户，也应依据大韩民国法律解释，关于本软件或相关争议的法院管辖权归“韩国水原地方法院安山支院”。
+
+---
+
+### ■ 许可信息
+
+本软件遵循以下许可：
+
+**CCL - 知识共享署名-非商业性使用-禁止演绎 4.0 国际**  
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
+
+许可类型: CC BY-NC-ND 4.0  
+分发限制：禁止在大林科技博览会和团队外部分发  
+版权所有（All Rights Reserved）
+
+---
+
+🗓️ 开发历史  
+首次创建日期：2024-03-19  
+最终修改日期：2024-11-05
