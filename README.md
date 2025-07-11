@@ -112,6 +112,8 @@ The Software is provided "as is" and the developers assume no responsibility for
 
 This notice shall be interpreted under the laws of the Republic of Korea, regardless of the nationality of the user. Any legal disputes related to the Software shall be under the jurisdiction of the Suwon District Court, Ansan Branch, Republic of Korea.
 
+This notice is originally written in Korean. In case of any discrepancy in interpretation, the Korean original shall prevail over any translations.
+
 ---
 
 ### ■ License Type
@@ -174,6 +176,8 @@ Last Modified Date: 2024-11-05
 
 本通知は、ユーザーが韓国以外の国籍を持つ場合でも大韓民国の法律に従って解釈され、本ソフトウェアまたは関連する紛争についての管轄裁判所は「大韓民国水原地方法院安山支院」とします。
 
+本通知は韓国語で作成されており、解釈に相違が生じた場合は、翻訳版ではなく韓国語の原文が優先されます。
+
 ---
 
 ### ■ ライセンス情報
@@ -235,6 +239,7 @@ Last Modified Date: 2024-11-05
 ### ■ 适用法律与管辖权
 
 本声明即使适用于非大韩民国国籍的用户，也应依据大韩民国法律解释，关于本软件或相关争议的法院管辖权归“韩国水原地方法院安山支院”。
+本通知以韩文撰写，如有解释上的差异，以韩文原文为准。
 
 ---
 
